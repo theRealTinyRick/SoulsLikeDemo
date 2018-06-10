@@ -1,0 +1,3132 @@
+fileFormatVersion: 2
+guid: a8dddabe38e3f8f44ad25ddb40626524
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: zombie
+    100002: Bip01 R Thigh
+    100004: Bip01 R Toe0Nub
+    100006: Bip01 R Toe0
+    100008: Bip01 R Calf
+    100010: Bip01 R Foot
+    100012: Bip01 L Toe0Nub
+    100014: Bip01 L Toe0
+    100016: Bip01 R Finger2
+    100018: pick
+    100020: Bip01 R Finger1
+    100022: Bip01 R Finger0
+    100024: Bip01 R Hand
+    100026: Bip01 R Forearm
+    100028: Bip01 L Calf
+    100030: Bip01 L Thigh
+    100032: Bip01 L Finger4
+    100034: Bip01 L Finger3
+    100036: Bip01 L Finger2
+    100038: pick01
+    100040: Bip01 L Finger1
+    100042: Bip01 R Finger4
+    100044: Bip01 R Finger3
+    100046: Bip01 L Foot
+    100048: Bip01 L Finger0
+    100050: Bip01 L Hand
+    100052: Bip01 L Forearm
+    100054: Bip01 zeye_left
+    100056: Bip01 zJaw
+    100058: Bip01 Head
+    100060: Bip01 Neck
+    100062: Bip01 Spine1
+    100064: Bip01 Spine
+    100066: Bip01 Pelvis
+    100068: Bip01
+    100070: //RootNode
+    100072: Bip01 right_Wmount
+    100074: Bip01 left_Wmount
+    100076: Bip01 R Finger42
+    100078: Bip01 R Finger41
+    100080: Bip01 R Finger32
+    100082: Bip01 R Finger31
+    100084: Bip01 R Finger22
+    100086: Bip01 R Finger21
+    100088: Bip01 Rhand_Weapon
+    100090: Bip01 R Finger1Nub
+    100092: Bip01 R Finger12
+    100094: Bip01 R Finger11
+    100096: Bip01 R Finger0Nub
+    100098: Bip01 R Finger02
+    100100: Bip01 R Finger01
+    100102: Bip01 R UpperArm
+    100104: Bip01 R Clavicle
+    100106: Bip01 L Finger42
+    100108: Bip01 L Finger41
+    100110: Bip01 L Finger32
+    100112: Bip01 L Finger31
+    100114: Bip01 L Finger22
+    100116: Bip01 L Finger21
+    100118: Bip01 Rhand_WeaponOpp
+    100120: Bip01 L Finger1Nub
+    100122: Bip01 L Finger12
+    100124: Bip01 L Finger11
+    100126: Bip01 L Finger0Nub
+    100128: Bip01 L Finger02
+    100130: Bip01 L Finger01
+    100132: Bip01 L UpperArm
+    100134: Bip01 L Clavicle
+    100136: Bip01 zeye_right
+    100138: Bip01 back_left_Wmount
+    100140: Bip01 back_center_Wmount
+    100142: Bip01 back_right_Wmount
+    400000: zombie
+    400002: Bip01 R Thigh
+    400004: Bip01 R Toe0Nub
+    400006: Bip01 R Toe0
+    400008: Bip01 R Calf
+    400010: Bip01 R Foot
+    400012: Bip01 L Toe0Nub
+    400014: Bip01 L Toe0
+    400016: Bip01 R Finger2
+    400018: pick
+    400020: Bip01 R Finger1
+    400022: Bip01 R Finger0
+    400024: Bip01 R Hand
+    400026: Bip01 R Forearm
+    400028: Bip01 L Calf
+    400030: Bip01 L Thigh
+    400032: Bip01 L Finger4
+    400034: Bip01 L Finger3
+    400036: Bip01 L Finger2
+    400038: pick01
+    400040: Bip01 L Finger1
+    400042: Bip01 R Finger4
+    400044: Bip01 R Finger3
+    400046: Bip01 L Foot
+    400048: Bip01 L Finger0
+    400050: Bip01 L Hand
+    400052: Bip01 L Forearm
+    400054: Bip01 zeye_left
+    400056: Bip01 zJaw
+    400058: Bip01 Head
+    400060: Bip01 Neck
+    400062: Bip01 Spine1
+    400064: Bip01 Spine
+    400066: Bip01 Pelvis
+    400068: Bip01
+    400070: //RootNode
+    400072: Bip01 right_Wmount
+    400074: Bip01 left_Wmount
+    400076: Bip01 R Finger42
+    400078: Bip01 R Finger41
+    400080: Bip01 R Finger32
+    400082: Bip01 R Finger31
+    400084: Bip01 R Finger22
+    400086: Bip01 R Finger21
+    400088: Bip01 Rhand_Weapon
+    400090: Bip01 R Finger1Nub
+    400092: Bip01 R Finger12
+    400094: Bip01 R Finger11
+    400096: Bip01 R Finger0Nub
+    400098: Bip01 R Finger02
+    400100: Bip01 R Finger01
+    400102: Bip01 R UpperArm
+    400104: Bip01 R Clavicle
+    400106: Bip01 L Finger42
+    400108: Bip01 L Finger41
+    400110: Bip01 L Finger32
+    400112: Bip01 L Finger31
+    400114: Bip01 L Finger22
+    400116: Bip01 L Finger21
+    400118: Bip01 Rhand_WeaponOpp
+    400120: Bip01 L Finger1Nub
+    400122: Bip01 L Finger12
+    400124: Bip01 L Finger11
+    400126: Bip01 L Finger0Nub
+    400128: Bip01 L Finger02
+    400130: Bip01 L Finger01
+    400132: Bip01 L UpperArm
+    400134: Bip01 L Clavicle
+    400136: Bip01 zeye_right
+    400138: Bip01 back_left_Wmount
+    400140: Bip01 back_center_Wmount
+    400142: Bip01 back_right_Wmount
+    2300000: pick
+    2300002: pick01
+    3300000: pick
+    3300002: pick01
+    4300000: pick01
+    4300002: pick
+    4300004: zombie
+    7400000: UA_Zombie_collection_recover
+    7400002: Zombie_Combat_mode
+    7400004: Zombie_dodge_backwards
+    7400006: Zombie_Hit_from_back
+    7400008: Zombie_Hit_from_left
+    7400010: Zombie_Hit_from_righ
+    7400012: Zombie_Hit_Left_Shoulder
+    7400014: Zombie_Hit_Right_Shoulder
+    7400016: Zombie_Hit_Stomach
+    7400018: Zombie_Hit_Upper_Torso
+    7400020: Zombie_Looking_around
+    7400022: Zombie_Tracking
+    7400024: Zombie_Left_EmptyHand_Backslash
+    7400026: Zombie_Left_EmptyHand_Slash
+    7400028: Zombie_Right_EmptyHand_Backslash
+    7400030: Zombie_Right_EmptyHand_Slash
+    7400032: Zombie_Left_Hand_Backslash
+    7400034: Zombie_Left_Hand_Slash
+    7400036: Zombie_Right_Hand_Backslash
+    7400038: Zombie_Right_Hand_Slash
+    7400040: Zombie_Knocked_backward
+    7400042: Zombie_Down_back
+    7400044: Zombie_Recover_from_knocked_backward
+    7400046: Zombie_Knocked_forward
+    7400048: Zombie_Down_forward
+    7400050: Zombie_Recover_from_knocked_forward
+    7400052: Zombie_Crawling
+    7400054: Zombie_Crawling_Combat_Mode
+    7400056: Zombie_Crawling_biting_leg
+    7400058: Zombie_Crawling_Hit
+    7400060: Zombie_Crawling_die
+    7400062: Zombie_Creep
+    7400064: Zombie_Creep_Combat_Mode
+    7400066: Zombie_Creep_biting_leg
+    7400068: Zombie_Creep_Hit
+    7400070: Zombie_Creep_die
+    7400072: Zombie_Crouching
+    7400074: Zombie_Eating
+    7400076: Zombie_IDLE_A
+    7400078: Zombie_IDLE_B
+    7400080: Zombie_IDLE_C
+    7400082: Zombie_Climbing_wall
+    7400084: Zombie_Run_A
+    7400086: Zombie_Jump_A
+    7400088: Zombie_Run_B
+    7400090: Zombie_Jump_B
+    7400092: Zombie_walk_A
+    7400094: Zombie_walk_B
+    7400096: Zombie_walk_C
+    7400098: Zombie_Dying_A
+    7400100: Zombie_Dying_B
+    7400102: Zombie_Dying_C
+    7400104: Zombie_Dying_D
+    7400106: Zombie_Die_backward explosion
+    7400108: Zombie_Die_backward_A
+    7400110: Zombie_Die_backward_B
+    7400112: Zombie_Die_backward_C
+    7400114: Zombie_Die_Forward_A
+    7400116: Zombie_Die_Forward_B
+    7400118: Zombie_Die_forward_Explosion
+    7400120: Zombie_Die_Hit_from_left
+    7400122: Zombie_Die_hit_from_right
+    7400124: Zombie_RM_Climbing_wall
+    7400126: Zombie_RM_Crawling
+    7400128: Zombie_RM_Creep
+    7400130: Zombie_RM_Run_A
+    7400132: Zombie_RM_Jump_A
+    7400134: Zombie_RM_Run_B
+    7400136: Zombie_RM_Jump_B
+    7400138: Zombie_RM_walk_A
+    7400140: Zombie_RM_walk_B
+    7400142: Zombie_RM_walk_C
+    7400144: Zombie_RM_Die_backward explosion
+    7400146: Zombie_RM_Die_forward_Explosion
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Bip01 Pelvis
+    13700002: zombie
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Standard_1
+    second: {fileID: 2100000, guid: 902b828f045e54b49baa752761f9f320, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'UA_Zombie_collection_recover' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation DOF
+      on avatar to improve retargeting quality.\n\t'Bip01 Spine' has translation animation
+      that will be discarded.\n\t'Bip01 Spine1' has translation animation that will
+      be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Zombie_Combat_mode
+      takeName: 
+      firstFrame: 0
+      lastFrame: 75
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_dodge_backwards
+      takeName: 
+      firstFrame: 76
+      lastFrame: 111
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_Hit_from_back
+      takeName: 
+      firstFrame: 112
+      lastFrame: 152
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_Hit_from_left
+      takeName: 
+      firstFrame: 153
+      lastFrame: 193
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_Hit_from_righ
+      takeName: 
+      firstFrame: 194
+      lastFrame: 234
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_Hit_Left_Shoulder
+      takeName: 
+      firstFrame: 235
+      lastFrame: 275
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_Hit_Right_Shoulder
+      takeName: 
+      firstFrame: 276
+      lastFrame: 316
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_Hit_Stomach
+      takeName: 
+      firstFrame: 317
+      lastFrame: 357
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_Hit_Upper_Torso
+      takeName: 
+      firstFrame: 358
+      lastFrame: 398
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_Looking_around
+      takeName: 
+      firstFrame: 399
+      lastFrame: 619
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_Tracking
+      takeName: 
+      firstFrame: 620
+      lastFrame: 860
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_Left_EmptyHand_Backslash
+      takeName: 
+      firstFrame: 861
+      lastFrame: 901
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_Left_EmptyHand_Slash
+      takeName: 
+      firstFrame: 902
+      lastFrame: 942
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_Right_EmptyHand_Backslash
+      takeName: 
+      firstFrame: 943
+      lastFrame: 983
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_Right_EmptyHand_Slash
+      takeName: 
+      firstFrame: 984
+      lastFrame: 1024
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_Left_Hand_Backslash
+      takeName: 
+      firstFrame: 1025
+      lastFrame: 1065
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_Left_Hand_Slash
+      takeName: 
+      firstFrame: 1066
+      lastFrame: 1106
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_Right_Hand_Backslash
+      takeName: 
+      firstFrame: 1107
+      lastFrame: 1147
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_Right_Hand_Slash
+      takeName: 
+      firstFrame: 1148
+      lastFrame: 1188
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_Knocked_backward
+      takeName: 
+      firstFrame: 1189
+      lastFrame: 1230
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_Down_back
+      takeName: 
+      firstFrame: 1231
+      lastFrame: 1271
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_Recover_from_knocked_backward
+      takeName: 
+      firstFrame: 1272
+      lastFrame: 1313
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_Knocked_forward
+      takeName: 
+      firstFrame: 1314
+      lastFrame: 1342
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_Down_forward
+      takeName: 
+      firstFrame: 1343
+      lastFrame: 1383
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_Recover_from_knocked_forward
+      takeName: 
+      firstFrame: 1384
+      lastFrame: 1434
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_Crawling
+      takeName: 
+      firstFrame: 1439
+      lastFrame: 1479
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_Crawling_Combat_Mode
+      takeName: 
+      firstFrame: 1484
+      lastFrame: 1564
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_Crawling_biting_leg
+      takeName: 
+      firstFrame: 1565
+      lastFrame: 1615
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_Crawling_Hit
+      takeName: 
+      firstFrame: 1616
+      lastFrame: 1656
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_Crawling_die
+      takeName: 
+      firstFrame: 1657
+      lastFrame: 1702
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_Creep
+      takeName: 
+      firstFrame: 1707
+      lastFrame: 1737
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: -0.09
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_Creep_Combat_Mode
+      takeName: 
+      firstFrame: 1738
+      lastFrame: 1788
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_Creep_biting_leg
+      takeName: 
+      firstFrame: 1789
+      lastFrame: 1839
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_Creep_Hit
+      takeName: 
+      firstFrame: 1840
+      lastFrame: 1870
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_Creep_die
+      takeName: 
+      firstFrame: 1871
+      lastFrame: 1881
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_Crouching
+      takeName: 
+      firstFrame: 1887
+      lastFrame: 1959.0001
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_Eating
+      takeName: 
+      firstFrame: 1960.0001
+      lastFrame: 2040
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_IDLE_A
+      takeName: 
+      firstFrame: 2045.9999
+      lastFrame: 2146
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_IDLE_B
+      takeName: 
+      firstFrame: 2151
+      lastFrame: 2201
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_IDLE_C
+      takeName: 
+      firstFrame: 2206
+      lastFrame: 2306
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_Climbing_wall
+      takeName: 
+      firstFrame: 2311
+      lastFrame: 2341
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_Run_A
+      takeName: 
+      firstFrame: 2346
+      lastFrame: 2386
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_Jump_A
+      takeName: 
+      firstFrame: 2387
+      lastFrame: 2437
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_Run_B
+      takeName: 
+      firstFrame: 2442
+      lastFrame: 2472
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_Jump_B
+      takeName: 
+      firstFrame: 2473
+      lastFrame: 2518
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_walk_A
+      takeName: 
+      firstFrame: 2521
+      lastFrame: 2571
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_walk_B
+      takeName: 
+      firstFrame: 2576
+      lastFrame: 2616
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_walk_C
+      takeName: 
+      firstFrame: 2621
+      lastFrame: 2671
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_Dying_A
+      takeName: 
+      firstFrame: 2676
+      lastFrame: 2776
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_Dying_B
+      takeName: 
+      firstFrame: 2781
+      lastFrame: 2881
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_Dying_C
+      takeName: 
+      firstFrame: 2886
+      lastFrame: 2986
+      wrapMode: 1
+      orientationOffsetY: 180
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_Dying_D
+      takeName: 
+      firstFrame: 2991
+      lastFrame: 3091
+      wrapMode: 1
+      orientationOffsetY: 180
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_Die_backward explosion
+      takeName: 
+      firstFrame: 3096
+      lastFrame: 3113
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_Die_backward_A
+      takeName: 
+      firstFrame: 3118
+      lastFrame: 3168
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_Die_backward_B
+      takeName: 
+      firstFrame: 3173
+      lastFrame: 3213
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_Die_backward_C
+      takeName: 
+      firstFrame: 3218
+      lastFrame: 3258
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_Die_Forward_A
+      takeName: 
+      firstFrame: 3263
+      lastFrame: 3313
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_Die_Forward_B
+      takeName: 
+      firstFrame: 3318
+      lastFrame: 3353
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_Die_forward_Explosion
+      takeName: 
+      firstFrame: 3358
+      lastFrame: 3375
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_Die_Hit_from_left
+      takeName: 
+      firstFrame: 3380
+      lastFrame: 3425
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_Die_hit_from_right
+      takeName: 
+      firstFrame: 3430
+      lastFrame: 3470
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_RM_Climbing_wall
+      takeName: 
+      firstFrame: 3475
+      lastFrame: 3505
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_RM_Crawling
+      takeName: 
+      firstFrame: 3510
+      lastFrame: 3550
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_RM_Creep
+      takeName: 
+      firstFrame: 3555
+      lastFrame: 3585
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_RM_Run_A
+      takeName: 
+      firstFrame: 3590
+      lastFrame: 3630
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_RM_Jump_A
+      takeName: 
+      firstFrame: 3635
+      lastFrame: 3685
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_RM_Run_B
+      takeName: 
+      firstFrame: 3690
+      lastFrame: 3720
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_RM_Jump_B
+      takeName: 
+      firstFrame: 3724
+      lastFrame: 3769
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_RM_walk_A
+      takeName: 
+      firstFrame: 3774
+      lastFrame: 3824
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_RM_walk_B
+      takeName: 
+      firstFrame: 3829
+      lastFrame: 3868.9998
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_RM_walk_C
+      takeName: 
+      firstFrame: 3874
+      lastFrame: 3924
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_RM_Die_backward explosion
+      takeName: 
+      firstFrame: 3928.9998
+      lastFrame: 3946.0002
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Zombie_RM_Die_forward_Explosion
+      takeName: 
+      firstFrame: 3951
+      lastFrame: 3968
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 1
+      mirror: 1
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Bip01 Pelvis
+      humanName: Hips
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: 0.089600496, y: 0, z: 0.044800248}
+        length: 0.11200066
+        modified: 1
+    - boneName: Bip01 L Thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: -60.000004, y: -60.000004, z: -90}
+        max: {x: 60.000004, y: 60.000004, z: 50}
+        value: {x: 0.34822488, y: 0, z: 0.17411244}
+        length: 0.43528125
+        modified: 1
+    - boneName: Bip01 R Thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: -60.000004, y: -60.000004, z: -90}
+        max: {x: 60.000004, y: 60.000004, z: 50}
+        value: {x: 0.34822473, y: 0, z: 0.17411236}
+        length: 0.43528104
+        modified: 1
+    - boneName: Bip01 L Calf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: 0.36925602, y: 0, z: 0.18462801}
+        length: 0.46157017
+        modified: 1
+    - boneName: Bip01 R Calf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: 0.3692561, y: 0, z: 0.18462805}
+        length: 0.4615703
+        modified: 1
+    - boneName: Bip01 L Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: -30.000002, z: -50}
+        max: {x: 0, y: 30.000002, z: 50}
+        value: {x: 0.10903999, y: 0, z: 0.054519996}
+        length: 0.13630003
+        modified: 1
+    - boneName: Bip01 R Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: -30.000002, z: -50}
+        max: {x: 0, y: 30.000002, z: 50}
+        value: {x: 0.10904009, y: 0, z: 0.054520044}
+        length: 0.13630015
+        modified: 1
+    - boneName: Bip01 Spine
+      humanName: Spine
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: 0.14993931, y: 0, z: 0.07496966}
+        length: 0.18742421
+        modified: 1
+    - boneName: Bip01 Spine1
+      humanName: Chest
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: 0.2538473, y: 0, z: 0.12692365}
+        length: 0.31730926
+        modified: 1
+    - boneName: Bip01 Neck
+      humanName: Neck
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: 0.057824407, y: 0, z: 0.028912203}
+        length: 0.072280526
+        modified: 1
+    - boneName: Bip01 Head
+      humanName: Head
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: 0.057824407, y: 0, z: 0.028912203}
+        length: 0.072280526
+        modified: 1
+    - boneName: Bip01 L Clavicle
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0.14046045, y: 0, z: 0.07023022}
+        length: 0.17557563
+        modified: 1
+    - boneName: Bip01 R Clavicle
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0.14046055, y: 0, z: 0.070230275}
+        length: 0.17557576
+        modified: 1
+    - boneName: Bip01 L UpperArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: -90, y: -100, z: -60.000004}
+        max: {x: 90, y: 100, z: 100}
+        value: {x: 0.2684196, y: 0, z: 0.1342098}
+        length: 0.33552465
+        modified: 1
+    - boneName: Bip01 R UpperArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: -90, y: -100, z: -60.000004}
+        max: {x: 90, y: 100, z: 100}
+        value: {x: 0.26841927, y: 0, z: 0.13420963}
+        length: 0.33552423
+        modified: 1
+    - boneName: Bip01 L Forearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: 0.18531834, y: 0, z: 0.09265917}
+        length: 0.231648
+        modified: 1
+    - boneName: Bip01 R Forearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: 0.18531786, y: 0, z: 0.09265893}
+        length: 0.23164739
+        modified: 1
+    - boneName: Bip01 L Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: -40, z: -80}
+        max: {x: 0, y: 40, z: 80}
+        value: {x: 0.09265917, y: 0, z: 0.046329584}
+        length: 0.115824
+        modified: 1
+    - boneName: Bip01 R Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: -40, z: -80}
+        max: {x: 0, y: 40, z: 80}
+        value: {x: 0.09265893, y: 0, z: 0.046329465}
+        length: 0.11582369
+        modified: 1
+    - boneName: Bip01 L Toe0
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: -50}
+        max: {x: 0, y: 0, z: 50}
+        value: {x: 0.086233996, y: 0, z: 0.043116998}
+        length: 0.10779253
+        modified: 1
+    - boneName: Bip01 R Toe0
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: -50}
+        max: {x: 0, y: 0, z: 50}
+        value: {x: 0.086234026, y: 0, z: 0.043117013}
+        length: 0.10779257
+        modified: 1
+    - boneName: Bip01 L Finger0
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: -25, z: -20}
+        max: {x: 0, y: 25, z: 20}
+        value: {x: 0.028768463, y: 0, z: 0.0143842315}
+        length: 0.03596059
+        modified: 1
+    - boneName: Bip01 L Finger01
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -40}
+        max: {x: 0, y: 0, z: 35}
+        value: {x: 0.034368824, y: 0, z: 0.017184412}
+        length: 0.04296105
+        modified: 1
+    - boneName: Bip01 L Finger02
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: -40}
+        max: {x: 0, y: 0, z: 35}
+        value: {x: 0.025776623, y: 0, z: 0.012888311}
+        length: 0.03222079
+        modified: 1
+    - boneName: Bip01 L Finger1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: -20, z: -50}
+        max: {x: 0, y: 20, z: 50}
+        value: {x: 0.04518928, y: 0, z: 0.02259464}
+        length: 0.056486618
+        modified: 1
+    - boneName: Bip01 L Finger11
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0.02865048, y: 0, z: 0.01432524}
+        length: 0.035813108
+        modified: 1
+    - boneName: Bip01 L Finger12
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0.021487858, y: 0, z: 0.010743929}
+        length: 0.026859831
+        modified: 1
+    - boneName: Bip01 L Finger2
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: -7.5000005, z: -50}
+        max: {x: 0, y: 7.5000005, z: 50}
+        value: {x: 0.051935952, y: 0, z: 0.025967976}
+        length: 0.064919956
+        modified: 1
+    - boneName: Bip01 L Finger21
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0.031621084, y: 0, z: 0.015810542}
+        length: 0.039526373
+        modified: 1
+    - boneName: Bip01 L Finger22
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0.023715816, y: 0, z: 0.011857908}
+        length: 0.02964478
+        modified: 1
+    - boneName: Bip01 L Finger3
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: -7.5000005, z: -50}
+        max: {x: 0, y: 7.5000005, z: 50}
+        value: {x: 0.043585446, y: 0, z: 0.021792723}
+        length: 0.054481827
+        modified: 1
+    - boneName: Bip01 L Finger31
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0.02892082, y: 0, z: 0.01446041}
+        length: 0.036151033
+        modified: 1
+    - boneName: Bip01 L Finger32
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0.021690613, y: 0, z: 0.010845306}
+        length: 0.027113274
+        modified: 1
+    - boneName: Bip01 L Finger4
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: -20, z: -50}
+        max: {x: 0, y: 20, z: 50}
+        value: {x: 0.035023317, y: 0, z: 0.017511658}
+        length: 0.043779165
+        modified: 1
+    - boneName: Bip01 L Finger41
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0.02373413, y: 0, z: 0.011867065}
+        length: 0.029667672
+        modified: 1
+    - boneName: Bip01 L Finger42
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0.017800596, y: 0, z: 0.008900298}
+        length: 0.022250753
+        modified: 1
+    - boneName: Bip01 R Finger0
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: -25, z: -20}
+        max: {x: 0, y: 25, z: 20}
+        value: {x: 0.028768606, y: 0, z: 0.014384303}
+        length: 0.035960767
+        modified: 1
+    - boneName: Bip01 R Finger01
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -40}
+        max: {x: 0, y: 0, z: 35}
+        value: {x: 0.03436889, y: 0, z: 0.017184446}
+        length: 0.04296113
+        modified: 1
+    - boneName: Bip01 R Finger02
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: -40}
+        max: {x: 0, y: 0, z: 35}
+        value: {x: 0.025776671, y: 0, z: 0.012888336}
+        length: 0.032220848
+        modified: 1
+    - boneName: Bip01 R Finger1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: -20, z: -50}
+        max: {x: 0, y: 20, z: 50}
+        value: {x: 0.045189425, y: 0, z: 0.022594713}
+        length: 0.0564868
+        modified: 1
+    - boneName: Bip01 R Finger11
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0.0286502, y: 0, z: 0.0143251}
+        length: 0.035812758
+        modified: 1
+    - boneName: Bip01 R Finger12
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0.021487648, y: 0, z: 0.010743824}
+        length: 0.026859568
+        modified: 1
+    - boneName: Bip01 R Finger2
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: -7.5000005, z: -50}
+        max: {x: 0, y: 7.5000005, z: 50}
+        value: {x: 0.051936094, y: 0, z: 0.025968047}
+        length: 0.064920135
+        modified: 1
+    - boneName: Bip01 R Finger21
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0.031620856, y: 0, z: 0.015810428}
+        length: 0.03952609
+        modified: 1
+    - boneName: Bip01 R Finger22
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0.023715647, y: 0, z: 0.0118578235}
+        length: 0.029644568
+        modified: 1
+    - boneName: Bip01 R Finger3
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: -7.5000005, z: -50}
+        max: {x: 0, y: 7.5000005, z: 50}
+        value: {x: 0.043585293, y: 0, z: 0.021792646}
+        length: 0.054481633
+        modified: 1
+    - boneName: Bip01 R Finger31
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0.028920911, y: 0, z: 0.014460456}
+        length: 0.03615115
+        modified: 1
+    - boneName: Bip01 R Finger32
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0.021690682, y: 0, z: 0.010845341}
+        length: 0.027113361
+        modified: 1
+    - boneName: Bip01 R Finger4
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: -20, z: -50}
+        max: {x: 0, y: 20, z: 50}
+        value: {x: 0.035023283, y: 0, z: 0.017511642}
+        length: 0.04377912
+        modified: 1
+    - boneName: Bip01 R Finger41
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0.023734128, y: 0, z: 0.011867064}
+        length: 0.02966767
+        modified: 1
+    - boneName: Bip01 R Finger42
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0.017800596, y: 0, z: 0.008900298}
+        length: 0.022250753
+        modified: 1
+    skeleton:
+    - name: Zombie_Collection_Humanoid
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bip01
+      parentName: 
+      position: {x: 0, y: 1.0286715, z: -0.050306052}
+      rotation: {x: -0.49999997, y: 0.49999997, z: 0.49999997, w: 0.49999997}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Bip01 Pelvis
+      parentName: 
+      position: {x: -0.000000022351742, y: 0.000000009267901, z: -0.00000011920929}
+      rotation: {x: -0.49999928, y: 0.50000066, z: 0.49999934, w: 0.5000006}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bip01 L Thigh
+      parentName: 
+      position: {x: -0.0000001192093, y: 0.0000002599802, z: 0.1287879}
+      rotation: {x: 0.026016949, y: -0.99961567, z: 0.00027774274, w: -0.009568938}
+      scale: {x: 0.9999999, y: 1, z: 0.9999999}
+    - name: Bip01 L Calf
+      parentName: 
+      position: {x: -0.43528134, y: -0.000000033888263, z: 0.000000042906002}
+      rotation: {x: -0.00000011088351, y: 0.00000004754376, z: 0.089488395, w: 0.99598783}
+      scale: {x: 0.9999998, y: 1, z: 0.99999976}
+    - name: Bip01 L Foot
+      parentName: 
+      position: {x: -0.46157038, y: 0.000000106433234, z: -0.000000059362076}
+      rotation: {x: 0.0005804628, y: 0.009555353, z: -0.06354137, w: 0.99793327}
+      scale: {x: 0.99999994, y: 0.9999999, z: 1.0000001}
+    - name: Bip01 L Toe0
+      parentName: 
+      position: {x: -0.13227662, y: 0.17023467, z: -0.0000000022895972}
+      rotation: {x: 0.0000005484425, y: 0.00000046308165, z: -0.7071068, w: 0.70710665}
+      scale: {x: 0.9999998, y: 0.9999998, z: 0.9999999}
+    - name: Bip01 L Toe0Nub
+      parentName: 
+      position: {x: -0.073701605, y: 0, z: 0}
+      rotation: {x: -9.553414e-16, y: 5.849778e-32, z: 0.99999994, w: 6.1232336e-17}
+      scale: {x: -0.99999994, y: -1, z: -0.99999994}
+    - name: Bip01 left_Wmount
+      parentName: 
+      position: {x: -0.088487625, y: 0.07194714, z: 0.28312713}
+      rotation: {x: -0.09370801, y: -0.02011985, z: 0.97356576, w: 0.2073248}
+      scale: {x: 1, y: 0.99999994, z: 0.9999999}
+    - name: Bip01 R Thigh
+      parentName: 
+      position: {x: -0.00000011920927, y: -0.00000014822157, z: -0.12878795}
+      rotation: {x: 0.026016966, y: -0.9996156, z: -0.00027626858, w: 0.009569082}
+      scale: {x: 0.99999976, y: 0.9999999, z: 0.99999976}
+    - name: Bip01 R Calf
+      parentName: 
+      position: {x: -0.43528113, y: 0.00000013804954, z: -0.000000019401583}
+      rotation: {x: -0.000000066192285, y: 0.000000029980477, z: 0.08948847, w: 0.99598783}
+      scale: {x: 0.9999998, y: 0.9999999, z: 1}
+    - name: Bip01 R Foot
+      parentName: 
+      position: {x: -0.46157056, y: -0.000000008813321, z: -0.00000010385549}
+      rotation: {x: -0.00058039656, y: -0.009555444, z: -0.063541435, w: 0.9979332}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: Bip01 R Toe0
+      parentName: 
+      position: {x: -0.13227677, y: 0.17023465, z: 0.000000018362133}
+      rotation: {x: 0.00000050636, y: 0.00000042087046, z: -0.70710677, w: 0.7071067}
+      scale: {x: 0.9999998, y: 0.9999999, z: 0.9999999}
+    - name: Bip01 R Toe0Nub
+      parentName: 
+      position: {x: -0.073701605, y: 0, z: 0}
+      rotation: {x: -1.6970319e-30, y: 9.55344e-16, z: 1.7763568e-15, w: 0.99999994}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+    - name: Bip01 right_Wmount
+      parentName: 
+      position: {x: -0.088488385, y: 0.07194636, z: -0.2831271}
+      rotation: {x: 0.09370849, y: 0.020118799, z: 0.9735657, w: 0.2073251}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Bip01 Spine
+      parentName: 
+      position: {x: -0.11083114, y: 0.01614328, z: -0.000000046774943}
+      rotation: {x: 0.0000020712612, y: 0.000000014901098, z: 0.00000004470346, w: -0.99999994}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.9999998}
+    - name: Bip01 Spine1
+      parentName: 
+      position: {x: -0.18742418, y: -0.00009401701, z: 0.0000000050414424}
+      rotation: {x: 0.00000002980234, y: -0.00000002980234, z: 0.0000000298023, w: 0.99999994}
+      scale: {x: 1.0000001, y: 1, z: 0.99999994}
+    - name: Bip01 back_center_Wmount
+      parentName: 
+      position: {x: -0.31375822, y: -0.26510918, z: 0.00009816655}
+      rotation: {x: -0.00056456507, y: 0.707109, z: -0.7071043, w: -0.000001320152}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Bip01 back_left_Wmount
+      parentName: 
+      position: {x: -0.30125228, y: -0.2241619, z: 0.12559539}
+      rotation: {x: 0.14211833, y: -0.69278795, z: 0.69280946, w: 0.14093325}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: Bip01 back_right_Wmount
+      parentName: 
+      position: {x: -0.30121306, y: -0.22416152, z: -0.12600033}
+      rotation: {x: 0.1343716, y: 0.6943311, z: -0.694006, w: 0.13492301}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bip01 L Clavicle
+      parentName: 
+      position: {x: -0.2636029, y: 0.000033233166, z: 0.041074388}
+      rotation: {x: -0.70685697, y: -0.018792316, z: 0.7068717, w: 0.01822945}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: Bip01 L UpperArm
+      parentName: 
+      position: {x: -0.17534582, y: 0.0089804735, z: 0.000014510856}
+      rotation: {x: 0.019353922, y: -0.023230914, z: 0.024862207, w: 0.9992335}
+      scale: {x: 1.0000001, y: 1, z: 0.99999994}
+    - name: Bip01 L Forearm
+      parentName: 
+      position: {x: -0.33552453, y: -0.00000012508113, z: -0.00000027640664}
+      rotation: {x: 0.000000043697597, y: 0.000000070806834, z: 0.00071177614, w: 0.9999997}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1}
+    - name: Bip01 L Hand
+      parentName: 
+      position: {x: -0.231648, y: 0.00000007818674, z: -0.000000019473099}
+      rotation: {x: 0.7068252, y: -8.6585385e-11, z: -0.0000000019702349, w: -0.70738816}
+      scale: {x: 0.99999994, y: 0.9999998, z: 0.99999994}
+    - name: Bip01 L Finger0
+      parentName: 
+      position: {x: -0.039027363, y: 0.017935123, z: -0.067505375}
+      rotation: {x: 0.6150433, y: -0.3356342, z: 0.22082123, w: 0.678461}
+      scale: {x: 0.9999998, y: 0.9999996, z: 0.99999976}
+    - name: Bip01 L Finger01
+      parentName: 
+      position: {x: -0.0359606, y: -0.000000060630356, z: 0.000000039736477}
+      rotation: {x: 0.00000019155796, y: -0.0000012329174, z: 0.037769534, w: -0.9992864}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1.0000004}
+    - name: Bip01 L Finger02
+      parentName: 
+      position: {x: -0.04296105, y: 0.000000001966026, z: -0.00000009281733}
+      rotation: {x: 0.000000026285093, y: -0.0000010999626, z: -0.037770092, w: 0.9992864}
+      scale: {x: 1.0000002, y: 1, z: 0.99999994}
+    - name: Bip01 L Finger0Nub
+      parentName: 
+      position: {x: -0.035960693, y: -0.000000009536743, z: 0}
+      rotation: {x: 0, y: 0, z: -0.000000007450581, w: 0.99999994}
+      scale: {x: 0.9999999, y: 0.99999994, z: 1}
+    - name: Bip01 L Finger1
+      parentName: 
+      position: {x: -0.10913062, y: 0.0010927272, z: -0.039494086}
+      rotation: {x: -0.00039804028, y: -0.017452154, z: 0.0000068075683, w: 0.9998476}
+      scale: {x: 1.0000001, y: 0.99999976, z: 0.9999997}
+    - name: Bip01 L Finger11
+      parentName: 
+      position: {x: -0.056486636, y: 0.00000022171051, z: -0.000000021880606}
+      rotation: {x: 0.000000008760425, y: -0.0000000131998315, z: 0.005506619, w: 0.9999848}
+      scale: {x: 0.9999999, y: 1, z: 1.0000002}
+    - name: Bip01 L Finger12
+      parentName: 
+      position: {x: -0.035813116, y: -0.0000002747687, z: -0.0000000069186714}
+      rotation: {x: -0.0000000038850487, y: 0.000000012410062, z: 0.0055063847, w: 0.9999848}
+      scale: {x: 1.0000001, y: 0.99999994, z: 0.9999999}
+    - name: Bip01 L Finger1Nub
+      parentName: 
+      position: {x: -0.03466484, y: 0, z: -0.0000000047683715}
+      rotation: {x: 2.3283063e-10, y: 3.4694467e-18, z: 0.00000001490116, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bip01 L Finger2
+      parentName: 
+      position: {x: -0.10930914, y: -0.0026246647, z: -0.0075768232}
+      rotation: {x: -0.00039805134, y: -0.017452141, z: 0.000006862181, w: 0.9998476}
+      scale: {x: 1, y: 0.9999997, z: 0.99999964}
+    - name: Bip01 L Finger21
+      parentName: 
+      position: {x: -0.06491997, y: -0.000000045224542, z: 0.00000011018299}
+      rotation: {x: -0.000000020219042, y: -0.0000000779875, z: 0.0055065267, w: 0.9999848}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: Bip01 L Finger22
+      parentName: 
+      position: {x: -0.03952638, y: 0.00000039321134, z: -0.00000014849785}
+      rotation: {x: -0.00000000768661, y: 0.00000008305631, z: 0.0055064536, w: 0.9999848}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000002}
+    - name: Bip01 L Finger3
+      parentName: 
+      position: {x: -0.11100733, y: -0.0042651435, z: 0.022065844}
+      rotation: {x: -0.00039810807, y: 0.000000026730767, z: -0.00000007136636, w: 0.9999999}
+      scale: {x: 0.99999994, y: 0.99999976, z: 0.9999995}
+    - name: Bip01 L Finger31
+      parentName: 
+      position: {x: -0.054481853, y: 0.00000020659094, z: 0.0000000049302864}
+      rotation: {x: 0.00000001008868, y: -0.00000003410886, z: 0.0055064983, w: 0.9999848}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: Bip01 L Finger32
+      parentName: 
+      position: {x: -0.036151044, y: -0.00000008452747, z: 0.00000005372862}
+      rotation: {x: 0.000000009379189, y: -0.0000000047650413, z: 0.005506502, w: 0.9999848}
+      scale: {x: 0.99999994, y: 0.9999998, z: 0.9999999}
+    - name: Bip01 L Finger4
+      parentName: 
+      position: {x: -0.10813972, y: 0.0024935345, z: 0.045226112}
+      rotation: {x: -0.00036257016, y: 0.047490597, z: 0.00065016944, w: 0.9988714}
+      scale: {x: 1.0000001, y: 0.99999994, z: 0.9999999}
+    - name: Bip01 L Finger41
+      parentName: 
+      position: {x: -0.0437792, y: 0.00000008446546, z: 0.0000000052213465}
+      rotation: {x: 0.000000024410967, y: -0.00000006716156, z: 0.005506464, w: 0.9999848}
+      scale: {x: 0.9999998, y: 0.99999994, z: 0.9999998}
+    - name: Bip01 L Finger42
+      parentName: 
+      position: {x: -0.029667653, y: 0.00000027531814, z: -0.000000052653924}
+      rotation: {x: -0.00000001754684, y: 0.000000037764714, z: 0.005506512, w: 0.9999848}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: Bip01 Rhand_WeaponOpp
+      parentName: 
+      position: {x: -0.09151607, y: 0.031915586, z: -0.0007886505}
+      rotation: {x: 0.49753666, y: 0.5029687, z: 0.5024596, w: -0.497005}
+      scale: {x: 1, y: 0.9999998, z: 1.0000001}
+    - name: pick01
+      parentName: 
+      position: {x: -0.05267822, y: -0.0014292145, z: -0.00025928498}
+      rotation: {x: 0.037774034, y: -0.7078362, z: -0.018469015, w: 0.70512396}
+      scale: {x: 1.0000002, y: 1.0000002, z: 0.99999976}
+    - name: Bip01 Neck
+      parentName: 
+      position: {x: -0.3173089, y: 0.00047731944, z: 0.000000030517157}
+      rotation: {x: 0.00000013956759, y: 0.0000011818729, z: -0.22533907, w: 0.97428036}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: Bip01 Head
+      parentName: 
+      position: {x: -0.07228053, y: 0.00000044668977, z: -0.0000000095206785}
+      rotation: {x: 0.00000012739389, y: 0.0000009550204, z: -0.1568289, w: -0.9876257}
+      scale: {x: 0.9999999, y: 1, z: 1.0000001}
+    - name: Bip01 zeye_left
+      parentName: 
+      position: {x: -0.14241272, y: 0.068360254, z: 0.04623224}
+      rotation: {x: 0.05191855, y: 0.05882717, z: -0.6477479, w: 0.75780374}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Bip01 zeye_right
+      parentName: 
+      position: {x: -0.14241272, y: 0.0683605, z: -0.046231855}
+      rotation: {x: -0.051918536, y: -0.05882356, z: -0.6477482, w: 0.7578037}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: Bip01 zJaw
+      parentName: 
+      position: {x: -0.032710113, y: 0.01913786, z: 0.00000006431557}
+      rotation: {x: 0.00000017551524, y: 0.000003377019, z: -0.79887545, w: 0.6014964}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+    - name: Bip01 R Clavicle
+      parentName: 
+      position: {x: -0.2636029, y: 0.000033462045, z: -0.041074388}
+      rotation: {x: 0.7068571, y: 0.018790152, z: 0.7068718, w: 0.018227663}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Bip01 R UpperArm
+      parentName: 
+      position: {x: -0.17534594, y: 0.00898057, z: -0.000014020838}
+      rotation: {x: 0.017624017, y: -0.023304846, z: -0.025095267, w: -0.9992579}
+      scale: {x: 1.0000002, y: 1, z: 1.0000002}
+    - name: Bip01 R Forearm
+      parentName: 
+      position: {x: -0.33552414, y: -0.00000005576239, z: -0.00000017033254}
+      rotation: {x: -0.000000018731797, y: 0.000000084163894, z: 0.02306528, w: 0.9997339}
+      scale: {x: 0.99999976, y: 1, z: 0.99999994}
+    - name: Bip01 R Hand
+      parentName: 
+      position: {x: -0.23164739, y: -0.000000012043524, z: 0.0000000044207105}
+      rotation: {x: -0.70682514, y: 0.000000043856744, z: 0.00000003020478, w: -0.7073882}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: Bip01 R Finger0
+      parentName: 
+      position: {x: -0.03902758, y: 0.01793466, z: 0.06750538}
+      rotation: {x: -0.6155845, y: 0.33655894, z: 0.21939783, w: 0.67797375}
+      scale: {x: 1, y: 0.99999994, z: 1.0000002}
+    - name: Bip01 R Finger01
+      parentName: 
+      position: {x: -0.03596075, y: -0.000000029841424, z: 0.00000018999116}
+      rotation: {x: 0.00000019087352, y: 0.00000416253, z: -0.037768118, w: 0.9992865}
+      scale: {x: 0.9999999, y: 1, z: 0.9999999}
+    - name: Bip01 R Finger02
+      parentName: 
+      position: {x: -0.04296112, y: 0.00000006894961, z: -0.00000017370998}
+      rotation: {x: -0.00000028978963, y: -0.00000075803814, z: -0.03777231, w: 0.9992863}
+      scale: {x: 1.0000004, y: 1, z: 1.0000001}
+    - name: Bip01 R Finger0Nub
+      parentName: 
+      position: {x: -0.035960615, y: -0.000000019073486, z: 0}
+      rotation: {x: -2.2810818e-25, y: 0.0000000037252896, z: 0.99999994, w: -6.1232336e-17}
+      scale: {x: -1, y: -1.0000001, z: -1}
+    - name: Bip01 R Finger1
+      parentName: 
+      position: {x: -0.109131135, y: 0.0010935653, z: 0.039494295}
+      rotation: {x: 0.00039804808, y: 0.0174522, z: 0.0000069847665, w: 0.9998476}
+      scale: {x: 0.9999999, y: 0.9999998, z: 1}
+    - name: Bip01 R Finger11
+      parentName: 
+      position: {x: -0.056486793, y: -0.00000036397543, z: -0.00000018215519}
+      rotation: {x: 0.00000003579875, y: 0.000000020676076, z: 0.0055064275, w: 0.9999848}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1}
+    - name: Bip01 R Finger12
+      parentName: 
+      position: {x: -0.03581274, y: 0.00000011272408, z: -0.00000009337468}
+      rotation: {x: -0.000000024479704, y: -0.00000006167119, z: 0.0055065136, w: 0.9999848}
+      scale: {x: 0.9999997, y: 0.99999976, z: 1.0000001}
+    - name: Bip01 R Finger1Nub
+      parentName: 
+      position: {x: -0.034664802, y: -0.00000015258789, z: 0}
+      rotation: {x: -1.4256764e-26, y: -2.3283064e-10, z: 0.99999994, w: 6.1232336e-17}
+      scale: {x: -1, y: -0.99999994, z: -0.99999994}
+    - name: Bip01 R Finger2
+      parentName: 
+      position: {x: -0.10930963, y: -0.0026243099, z: 0.007576924}
+      rotation: {x: 0.0003980457, y: 0.017452182, z: 0.0000068791196, w: 0.9998476}
+      scale: {x: 0.9999999, y: 0.99999994, z: 1}
+    - name: Bip01 R Finger21
+      parentName: 
+      position: {x: -0.06492012, y: -0.00000011218906, z: -0.0000001173771}
+      rotation: {x: -0.000000010694677, y: 0.0000000071149935, z: 0.0055066193, w: 0.9999848}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1}
+    - name: Bip01 R Finger22
+      parentName: 
+      position: {x: -0.039526056, y: 0.00000016854763, z: 0.000000059444204}
+      rotation: {x: -0.0000000265007, y: -0.00000001184343, z: 0.0055064084, w: 0.9999848}
+      scale: {x: 0.9999998, y: 0.99999994, z: 1.0000001}
+    - name: Bip01 R Finger3
+      parentName: 
+      position: {x: -0.111007884, y: -0.004264849, z: -0.02206577}
+      rotation: {x: 0.0003981524, y: 0.000000005934505, z: -0.00000004879011, w: 0.9999999}
+      scale: {x: 0.9999998, y: 1.0000001, z: 1.0000001}
+    - name: Bip01 R Finger31
+      parentName: 
+      position: {x: -0.05448165, y: -0.0000001308746, z: -0.000000079786055}
+      rotation: {x: -0.000000047289458, y: -0.000000023465207, z: 0.005506561, w: 0.9999848}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1}
+    - name: Bip01 R Finger32
+      parentName: 
+      position: {x: -0.03615113, y: 0.0000001450977, z: -0.000000125168}
+      rotation: {x: 0.000000049893902, y: 0.00000003217811, z: 0.00550636, w: 0.9999848}
+      scale: {x: 0.9999999, y: 0.99999976, z: 1}
+    - name: Bip01 R Finger4
+      parentName: 
+      position: {x: -0.10814022, y: 0.0024938134, z: -0.045226034}
+      rotation: {x: 0.0003626166, y: -0.047490157, z: 0.00064995175, w: 0.9988714}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: Bip01 R Finger41
+      parentName: 
+      position: {x: -0.04377914, y: -0.0000001359525, z: -0.0000000560888}
+      rotation: {x: 0.00000003033599, y: 0.00000004604815, z: 0.005506559, w: 0.9999848}
+      scale: {x: 1.0000002, y: 1, z: 0.99999994}
+    - name: Bip01 R Finger42
+      parentName: 
+      position: {x: -0.029667683, y: 0.00000008076055, z: 0.00000003814122}
+      rotation: {x: -0.000000019034543, y: -0.000000009368708, z: 0.005506439, w: 0.9999848}
+      scale: {x: 0.99999994, y: 1.0000001, z: 0.99999994}
+    - name: Bip01 Rhand_Weapon
+      parentName: 
+      position: {x: -0.10005928, y: 0.038214035, z: 0.00071846007}
+      rotation: {x: -0.50724846, y: 0.4806431, z: 0.51227266, w: 0.49925727}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000001}
+    - name: pick
+      parentName: 
+      position: {x: -0.04696724, y: -0.00066032406, z: 0.001097641}
+      rotation: {x: -0.69766617, y: -0.03975882, z: 0.7146618, w: 0.030653805}
+      scale: {x: 1, y: 0.99999994, z: 0.99999964}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: Bip01
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
