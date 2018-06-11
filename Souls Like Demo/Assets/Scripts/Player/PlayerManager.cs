@@ -36,7 +36,6 @@ public class PlayerManager : MonoBehaviour {
     private float currentSpawnTime;
     private bool isSpawned = false;
 
-    public bool isBlocking = false;
     public bool isLockedOn = false;
     public bool isEquipped = false;
     public bool isGrounded = false;
@@ -152,7 +151,7 @@ public class PlayerManager : MonoBehaviour {
         }
 
         if (isLockedOn){
-            if(currentPlayerState == PlayerState.Attacking || isBlocking)
+            if(currentPlayerState == PlayerState.Attacking)
                 move.LookAtTarget();
         }
     }
@@ -162,17 +161,9 @@ public class PlayerManager : MonoBehaviour {
             if (Input.GetMouseButtonDown(0)){
                 attack.Attack();
             }
-            if (Input.GetMouseButton(1)){
-               // attack.BlockStart();
-            }
             if (Input.GetKeyDown(KeyCode.R)){
                 inventory.InitEquipOrUnequip();
             }
-        }
-        
-        if (Input.GetMouseButtonUp(1)){
-            attack.BlockStop();
-            IdleThePlayer();
         }
     }
 
@@ -318,7 +309,6 @@ public class PlayerManager : MonoBehaviour {
         currentPlayerState = PlayerState.Dead;
         attack.StopAllCoroutines();
         attack.currentAttackState = PlayerAttack.AttackState.NotAttacking;
-        attack.BlockStop();
         targeting.LockOff();
 
         foreach (var weapons in attack.weaponCollider){

@@ -7,93 +7,36 @@ using UnityEngine;
 
 public class PlayerMove : MonoBehaviour {
 
-    private Transform directionController;
     private float rotationSpeed = .25f;
     Rigidbody rb;
     
-    private void Start()
-    {
-        directionController = new GameObject().transform;
-        directionController.name = "Direction Controller";
-        DontDestroyOnLoad(directionController);
-        directionController.parent = PlayerManager.instance.transform;
+    private void Start(){
         rb = GetComponent<Rigidbody>();
     }
 
-    public void FreeMovement(Vector3 movement, float speed)
-    {
-        //calculate the direction the player should look
-        Vector3 dir = PlayerManager.instance.playerCam.transform.position - transform.position;
-        dir.y = 0;
-        Quaternion rot = Quaternion.LookRotation(-dir);
-        directionController.transform.rotation = Quaternion.Slerp(transform.rotation, rot, 1f);
-
-        directionController.transform.position = transform.position; //set the gameobject direction controller to your position
-
-        //apply movement
-        movement = directionController.transform.TransformDirection(movement);
+    public void FreeMovement(Vector3 movement, float speed){
+        movement = PlayerManager.instance.playerCam.transform.TransformDirection(movement);
+        movement.y = 0.0f;
         transform.Translate(movement * speed * Time.deltaTime, Space.World);
             
-        if (movement != Vector3.zero)
-        {
+        if (movement != Vector3.zero){
             if(PlayerManager.instance.currentPlayerState != PlayerManager.PlayerState.Attacking)
                 transform.rotation = Quaternion.Slerp(transform.rotation, Quaternion.LookRotation(movement), rotationSpeed);
+
             PlayerManager.instance.anim.SetBool("IsMovingForward", true);
         }
-        else
-        {
+        else{
             PlayerManager.instance.anim.SetBool("IsMovingForward", false);
         }
     }
 
-    public void LockedOnMovement(Vector3 movement, float h, float v, float speed)
-    {
-        //move player
-        transform.Translate(movement*speed*Time.deltaTime);
-
-        if (movement == Vector3.zero)
-        {
-            PlayerManager.instance.IdleThePlayer();
-        }
-        else
-        {
-            PlayerManager.instance.anim.SetBool("IsIdle", false);
-
-            if (v > 0)
-                PlayerManager.instance.anim.SetBool("IsMovingForward", true);
-            else if(v <= 0)
-                PlayerManager.instance.anim.SetBool("IsMovingForward", false);
-
-
-            if (v < 0)
-                PlayerManager.instance.anim.SetBool("IsMovingBack", true);
-            else if(v >= 0)
-                PlayerManager.instance.anim.SetBool("IsMovingBack", false);
-
-
-            if (h > 0)
-                PlayerManager.instance.anim.SetBool("IsMovingRight", true);
-            else if(h <= 0)
-                PlayerManager.instance.anim.SetBool("IsMovingRight", false);
-
-
-            if (h < 0)
-                PlayerManager.instance.anim.SetBool("IsMovingLeft", true);
-            else if (h >= 0)
-                PlayerManager.instance.anim.SetBool("IsMovingLeft", false);
-        }
-    }
-
-    public void LookAtTarget()
-    {
+    public void LookAtTarget(){
         Vector3 dir = transform.position - PlayerManager.instance.targeting.currentTarget.transform.position;
         dir.y = 0f;
         transform.rotation = Quaternion.Slerp(transform.rotation, Quaternion.LookRotation(-dir), .5f);
     }
 
-    public IEnumerator ClimbLadder(Vector3 bottomPos, Vector3 topPos, Vector3 endPos, float speed)
-    {
-        Debug.Log("climbing");
+    public IEnumerator ClimbLadder(Vector3 bottomPos, Vector3 topPos, Vector3 endPos, float speed){
         Vector3 start;
         Vector3 end;
       
@@ -103,13 +46,11 @@ public class PlayerMove : MonoBehaviour {
 
         //test for which side youre on
         
-        if(Vector3.Distance(transform.position, bottomPos)< Vector3.Distance(transform.position, topPos))
-        {//find out the starting point
+        if(Vector3.Distance(transform.position, bottomPos)< Vector3.Distance(transform.position, topPos)){
             start = bottomPos;
             end = topPos;
         }
-        else
-        {
+        else{
             start = topPos;
             end = bottomPos;
         }
@@ -123,11 +64,9 @@ public class PlayerMove : MonoBehaviour {
         transform.position = start;
         Quaternion rot = Quaternion.LookRotation(-PlayerManager.instance.ladder.transform.forward);
         transform.rotation = rot;
-        while (Vector3.Distance(transform.position, end) > 0.1f) //move up/down ladder
-        {
+        while (Vector3.Distance(transform.position, end) > 0.1f){
             transform.position = Vector3.MoveTowards(transform.position, end, speed * Time.deltaTime);
-            if(Vector3.Distance(transform.position, end) <= 1f)
-            {
+            if(Vector3.Distance(transform.position, end) <= 1f){
                 PlayerManager.instance.anim.speed = 1;
                 PlayerManager.instance.anim.SetBool("isClimbing", false);
             }
@@ -136,10 +75,8 @@ public class PlayerMove : MonoBehaviour {
         rot.x = 0;
         transform.rotation = rot;
         Debug.Log("climb finish");
-        if(end == topPos)
-        {
-            while (Vector3.Distance(transform.position, endPos) > 0.1f) // move to end
-            {
+        if(end == topPos){
+            while (Vector3.Distance(transform.position, endPos) > 0.1f){
                 transform.position = Vector3.MoveTowards(transform.position, endPos, speed * Time.deltaTime);
                 yield return new WaitForEndOfFrame();
             }
@@ -160,19 +97,16 @@ public class PlayerMove : MonoBehaviour {
         }
         else{
             PlayerManager.instance.anim.Play("Roll");
-            PlayerManager.instance.attack.BlockStop();
             PlayerManager.instance.rb.velocity = transform.forward * (rollStrength + 2f);
         }
     }
 
     //animation event calls
-    private void EvadeStart()
-    {
+    private void EvadeStart(){
         PlayerManager.instance.currentPlayerState = PlayerManager.PlayerState.Evading;
     }
 
-    private void EvadeEnd()
-    {
+    private void EvadeEnd(){
         PlayerManager.instance.currentPlayerState = PlayerManager.PlayerState.Normal;
     }
 }

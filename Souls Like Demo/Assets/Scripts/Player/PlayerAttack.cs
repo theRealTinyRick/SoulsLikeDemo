@@ -149,22 +149,4 @@ public class PlayerAttack : MonoBehaviour {
         PlayerManager.instance.currentPlayerState = PlayerManager.PlayerState.Normal;
     }
 #endregion
-
-    public bool BlockStart()
-    {
-        if (PlayerManager.instance.currentPlayerState != PlayerManager.PlayerState.Attacking)
-        {
-            PlayerManager.instance.isBlocking = true;
-            PlayerManager.instance.anim.SetBool("IsBlocking", true);
-            return true;
-        }
-        return false;
-    }
-
-    public bool BlockStop()
-    {
-        PlayerManager.instance.anim.SetBool("IsBlocking", false);
-        PlayerManager.instance.isBlocking = false;
-        return true;
-    }
 }
